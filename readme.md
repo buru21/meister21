@@ -10,4 +10,5 @@ branch master test
 =======
 branch test
 >>>>>>> branch-test
+other test
 
